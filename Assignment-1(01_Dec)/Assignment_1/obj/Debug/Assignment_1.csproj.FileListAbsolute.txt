@@ -1,0 +1,7 @@
+D:\CDAC\DOT NET\Assignments\Assignment-1(01_Dec)\Assignment_1\bin\Debug\Assignment_1.exe.config
+D:\CDAC\DOT NET\Assignments\Assignment-1(01_Dec)\Assignment_1\bin\Debug\Assignment_1.exe
+D:\CDAC\DOT NET\Assignments\Assignment-1(01_Dec)\Assignment_1\bin\Debug\Assignment_1.pdb
+D:\CDAC\DOT NET\Assignments\Assignment-1(01_Dec)\Assignment_1\obj\Debug\Assignment_1.csprojAssemblyReference.cache
+D:\CDAC\DOT NET\Assignments\Assignment-1(01_Dec)\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+D:\CDAC\DOT NET\Assignments\Assignment-1(01_Dec)\Assignment_1\obj\Debug\Assignment_1.exe
+D:\CDAC\DOT NET\Assignments\Assignment-1(01_Dec)\Assignment_1\obj\Debug\Assignment_1.pdb
