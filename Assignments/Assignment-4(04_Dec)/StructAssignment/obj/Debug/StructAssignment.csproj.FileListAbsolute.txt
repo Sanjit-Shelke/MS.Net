@@ -1,0 +1,7 @@
+D:\CDAC\DOT NET\Assignments\Assignment-4(04_Dec)\StructAssignment\bin\Debug\StructAssignment.exe.config
+D:\CDAC\DOT NET\Assignments\Assignment-4(04_Dec)\StructAssignment\bin\Debug\StructAssignment.exe
+D:\CDAC\DOT NET\Assignments\Assignment-4(04_Dec)\StructAssignment\bin\Debug\StructAssignment.pdb
+D:\CDAC\DOT NET\Assignments\Assignment-4(04_Dec)\StructAssignment\obj\Debug\StructAssignment.csprojAssemblyReference.cache
+D:\CDAC\DOT NET\Assignments\Assignment-4(04_Dec)\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+D:\CDAC\DOT NET\Assignments\Assignment-4(04_Dec)\StructAssignment\obj\Debug\StructAssignment.exe
+D:\CDAC\DOT NET\Assignments\Assignment-4(04_Dec)\StructAssignment\obj\Debug\StructAssignment.pdb
